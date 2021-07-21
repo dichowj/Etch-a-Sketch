@@ -1,0 +1,31 @@
+h1.pageTitle {
+    font-size: 35px;
+    text-align: center;
+}
+
+button.reset {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+div.container {
+    display: grid;
+    background-color: rgb(221, 179, 179);
+    border: 10px solid;
+    height: 700px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+div.gridDiv {
+    border: 1px solid rgb(85, 85, 85);
+}
+
+#userText {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(8, 107, 114);
+}
